@@ -140,6 +140,29 @@ The evaluation demonstrated improved readability, faster processing, and high ex
 - Structured information extraction
 - AI-assisted healthcare communication
 
+# 📋 Project Management & Delivery
+
+Along with the technical and research development of MediExplain AI, structured project management practices were applied to plan, schedule, monitor, and evaluate the project.
+
+### Project Planning
+- Defined the project scope, objectives, methodology, key activities, timelines, and deliverables.
+- Broke the project into structured activities covering research, documentation, review, presentation, and final submission.
+- Developed an activity plan to sequence tasks and manage project dependencies.
+
+### Scheduling & Milestone Management
+- Created Gantt and milestone-based Gantt charts to visualize project timelines and major deliverables.
+- Applied PERT to estimate activity durations and understand task dependencies.
+- Used the Critical Path Method (CPM) to identify critical activities and a planned 68-day project path.
+
+### Risk & Progress Management
+- Identified project risks related to schedule, dependencies, reviews, and resource availability.
+- Applied resource and project buffers to reduce the impact of potential delays.
+- Tracked task completion, schedule variance, milestones, and overall project progress.
+
+### Project Guide Feedback
+- Reviewed and categorized guide feedback based on priority and impact.
+- Developed action plans to assign improvements, estimate effort, and track completion.
+- Incorporated feedback into project documentation and future development planning.
 ---
 
 # 🧠 Skills Demonstrated
@@ -160,14 +183,18 @@ The evaluation demonstrated improved readability, faster processing, and high ex
 
 # 👩‍💻 My Contribution
 
-As a co-author of the MediExplain AI research project, I contributed to:
+As a co-author and project contributor to MediExplain AI, I contributed to:
 
 - Research and literature review
-- Understanding the business problem and healthcare use case
+- Understanding the healthcare problem and project requirements
+- Project scope and activity planning
+- Project scheduling using Gantt Charts, PERT, and CPM
+- Risk identification and progress monitoring
 - System workflow analysis
-- Research paper documentation
-- Evaluation and results interpretation
-- Technical presentation of the research work
+- Stakeholder feedback review and action planning
+- Research paper and technical documentation
+- Evaluation and interpretation of results
+- Research presentation and project communication
 - Understanding the proposed AI architecture and methodology
 
 ---
